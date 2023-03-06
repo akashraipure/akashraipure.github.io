@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#demo{
+    font-size: 17px;
+}
+.contect-inner{
+    font-size: 15px;
+}
+.fixed-top{
+    width: 100%;
+    padding: 12px;
+}
+.akash{
+    background-color: rgb(204, 43, 43);
+    border: 1px solid black;
+
+}
+.nav-link{
+    color: black!important;
+    font-weight: 400;
+}
